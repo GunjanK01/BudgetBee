@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-, "assets/styles/auth.styles.js", "components/SafeScreen.jsx", "app/_layout.jsx", "app/(root)/_layout.jsx"  ]
+, "assets/styles/auth.styles.js", "components/SafeScreen.jsx", "app/_layout.jsx", "app/(root)/_layout.jsx", "hooks/useTransactions.js"  ]
 }

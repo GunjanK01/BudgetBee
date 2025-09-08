@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "@clerk/clerk-expo": "^2.14.28",
-    "expo-secure-store": "^14.2.3"
+    "expo-secure-store": "^14.2.3",
+    "react-native-keyboard-aware-scroll-view": "^0.9.5"
   }
 }
