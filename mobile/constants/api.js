@@ -1,0 +1,1 @@
+export const API_URL = "https://budgetbee-backend-zwla.onrender.com/api";
