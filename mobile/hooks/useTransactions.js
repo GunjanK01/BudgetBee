@@ -2,10 +2,13 @@
 
 import { useCallback, useState } from "react";
 import { Alert } from "react-native";
-import { API_URL } from "../constants/api";
+
 
 
 // const API_URL = "http://localhost:5001/api";
+const API_URL = "https://budgetbee-backend-zwla.onrender.com/api";
+// const API_URL = process.env.RENDER_API_URL;
+
 
 export const useTransactions = (userId) => {
   const [transactions, setTransactions] = useState([]);
