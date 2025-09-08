@@ -32,18 +32,9 @@ This project includes a **Node.js backend (API)** hosted on **Render**, a **mobi
 |--------------|--------------|
 | <img width="300" src="https://github.com/user-attachments/assets/faae7410-c2b1-42db-bd90-da1b7b104c48" /> | <img width="300" src="https://github.com/user-attachments/assets/5674c441-f232-467e-bfbb-fca37b7f2b6e" /> |
 
-|--------------|--------------|
 | <img width="300" src="https://github.com/user-attachments/assets/c476cbb1-a8c4-4ae7-9666-3ca5e49712d5" /> | <img width="300" src="https://github.com/user-attachments/assets/098978b0-1d53-4a22-9b3b-1af944e7e4b7" /> |
 
 
----
-## 📂 Project Structure
-expense-tracker/
-├── backend/ # Node.js + Express API
-├── mobile/ # Expo (React Native) app
-├── README.md
-└── .gitignore
----
 
 
 ## ⚙️ Installation & Setup
